@@ -22,3 +22,5 @@ wget https://github.com/fastfetch-cli/fastfetch/releases/download/2.12.0/fastfet
 sudo dpkg -i /home/$USER/Downloads/fastfetch.deb
 sudo rm /home/$USER/Downloads/fastfetch.deb
 
+#AppImages
+sudo curl https://raw.githubusercontent.com/srevinsaju/zap/main/install.sh | sudo bash -s
