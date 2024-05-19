@@ -6,6 +6,7 @@ sudo apt install steam
 sudo apt install wget
 sudo apt install git
 sudo apt install adb
+sudo apt install cava
 
 #Install Wine start
 sudo dpkg --add-architecture i386
