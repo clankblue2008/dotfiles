@@ -27,3 +27,4 @@ sudo curl https://raw.githubusercontent.com/srevinsaju/zap/main/install.sh | sud
 zap init
 zap install --github --from Heroic-Games-Launcher/HeroicGamesLauncher
 zap install --github --from Vencord/Vesktop
+zap install --github --from th-ch/youtube-music
