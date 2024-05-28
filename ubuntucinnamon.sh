@@ -19,4 +19,8 @@ sudo apt install /tmp/fastfetch.deb -y
 sudo rm /home/$USER/Downloads/fastfetch.deb
 
 #AppImages
-#sudo curl https://raw.githubusercontent.com/srevinsaju/zap/main/install.sh | sudo bash -s (Zap is currently broken)
+sudo curl https://raw.githubusercontent.com/srevinsaju/zap/main/install.sh | sudo bash -s
+zap init
+zap install --github --from Heroic-Games-Launcher/HeroicGamesLauncher
+zap install --github --from Vencord/Vesktop
+zap install --github --from th-ch/youtube-music
